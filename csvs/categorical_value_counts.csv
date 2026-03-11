@@ -1,0 +1,24 @@
+,0
+"('Gender', 'Male')",50.59%
+"('Gender', 'Female')",49.41%
+"('Family History', 'yes')",81.76%
+"('Family History', 'no')",18.24%
+"('High caloric', 'yes')",88.39%
+"('High caloric', 'no')",11.61%
+"('Snacks', 'Sometimes')",83.61%
+"('Snacks', 'Frequently')",11.46%
+"('Snacks', 'Always')",2.51%
+"('Snacks', 'no')",2.42%
+"('Smoking', 'no')",97.92%
+"('Smoking', 'yes')",2.08%
+"('Monitoring', 'no')",95.45%
+"('Monitoring', 'yes')",4.55%
+"('Alcohol', 'Sometimes')",66.37%
+"('Alcohol', 'no')",30.27%
+"('Alcohol', 'Frequently')",3.32%
+"('Alcohol', 'Always')",0.05%
+"('Transport', 'Public Transit')",74.85%
+"('Transport', 'Automobile')",21.65%
+"('Transport', 'Walking')",2.65%
+"('Transport', 'Motorbike')",0.52%
+"('Transport', 'Bike')",0.33%
