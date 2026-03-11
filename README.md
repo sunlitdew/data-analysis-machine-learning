@@ -1,8 +1,8 @@
-##Description
+## Description
 
 This is a project meant to analyze the data from a database on obesity based on multiple parameters. It creates statistics and plots that help visualize the correlations between parameters
 
-##Requirements:
+## Requirements:
 
 -python 3
 
@@ -13,7 +13,7 @@ Install missing dependencies using
 -pip install -r requirements.txt
 
 
-##Usage:
+## Usage:
 
 
 Executing data_analysis_main.py will create csv files in a "csvs" folder and plots in a "plots" folder in the project directory.
