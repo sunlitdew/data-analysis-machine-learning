@@ -1,6 +1,6 @@
 ## Description
 
-This is a project meant to analyze the data from a database on obesity based on multiple parameters. It creates statistics and plots that help visualize the correlations between parameters
+This is a project meant to analyze the data from a database on obesity based on multiple parameters. It creates statistics and plots that help visualize the correlations between parameters, and showcases different machine learning models and their possible optimizations in practice.
 
 ## Requirements:
 
